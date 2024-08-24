@@ -41,8 +41,4 @@ This repository contains the implementation of various machine learning techniqu
 4. **Analysis:**
    - Provided insights into the working of PCA and LDA and determined which method is better suited for the breast_cancer dataset.
 
-## Installation and Usage
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
