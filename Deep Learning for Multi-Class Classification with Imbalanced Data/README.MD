@@ -31,8 +31,4 @@ The dataset used in this project can be found on Kaggle and includes two files: 
    - Repeated the steps from data preparation to model evaluation using the sampled data.
    - Compared and commented on the results obtained from the original and sampled data distributions.
 
-## Installation and Usage
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
