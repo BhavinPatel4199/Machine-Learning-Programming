@@ -59,12 +59,6 @@ This repository contains a comprehensive solution to a series of data preprocess
 ```bash
 pip install pandas numpy matplotlib seaborn nltk sklearn
 
-### Usage
-- **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
-
-
 
 
 
