@@ -30,3 +30,8 @@ Welcome to the **Machine Learning Programming** repository! This repository serv
 4. Covid-19 Detection Using Machine Learning: This project aims to develop a machine learning model for detecting COVID-19. It involves comparing several classification algorithms, including K-Nearest Neighbors (KNN), Random Forest, Naive Bayes, and Support Vector Machines (SVM), to identify the most effective model for predicting COVID-19 based on symptom and clinical data.
 
 - Each sub-repository is equipped with detailed instructions, code, and documentation to facilitate understanding and replication of the experiments and techniques demonstrated.
+
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/krishnapatel1722/Machine-Learning-Programming.git
