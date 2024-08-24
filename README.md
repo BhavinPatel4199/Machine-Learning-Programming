@@ -17,15 +17,16 @@ Welcome to the **Machine Learning Programming** repository! This repository serv
 - **Description:** This repository contains a project focused on detecting COVID-19 using machine learning algorithms. It compares models such as K-Nearest Neighbors, Random Forest, Naive Bayes, and Support Vector Machine, and evaluates their performance in predicting COVID-19 based on clinical and symptom data.
 
 
-Summary
-The Machine Learning Programming repository is a comprehensive collection of projects and experiments in machine learning. It is organized into four distinct sub-repositories, each focusing on specific areas within the field:
+###Summary
 
-Data Preprocessing and Feature Selection Techniques in Python: This repository explores various techniques for preparing and selecting features from datasets. It covers essential tasks such as handling missing values, normality testing, encoding categorical variables, and applying feature selection methods like correlation analysis, chi-square tests, mutual information, and random forest feature importance.
+- The Machine Learning Programming repository is a comprehensive collection of projects and experiments in machine learning. It is organized into four distinct sub-repositories, each focusing on specific areas within the field:
 
-Clustering, Classification, and Dimensionality Reduction Techniques using Python: This project delves into the implementation and evaluation of clustering, classification, and dimensionality reduction methods. It includes practical applications of k-means clustering, various classification algorithms (e.g., logistic regression, random forest), and dimensionality reduction techniques such as Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA).
+1. Data Preprocessing and Feature Selection Techniques in Python: This repository explores various techniques for preparing and selecting features from datasets. It covers essential tasks such as handling missing values, normality testing, encoding categorical variables, and applying feature selection methods like correlation analysis, chi-square tests, mutual information, and random forest feature importance.
 
-Deep Learning for Multi-Class Classification with Imbalanced Data: Focused on deep learning, this repository involves designing and training neural networks for multi-class classification tasks with imbalanced datasets. It includes tasks such as data shuffling, model tuning with early stopping, evaluating classification metrics, and comparing results from original and oversampled data distributions.
+2. Clustering, Classification, and Dimensionality Reduction Techniques using Python: This project delves into the implementation and evaluation of clustering, classification, and dimensionality reduction methods. It includes practical applications of k-means clustering, various classification algorithms (e.g., logistic regression, random forest), and dimensionality reduction techniques such as Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA).
 
-Covid-19 Detection Using Machine Learning: This project aims to develop a machine learning model for detecting COVID-19. It involves comparing several classification algorithms, including K-Nearest Neighbors (KNN), Random Forest, Naive Bayes, and Support Vector Machines (SVM), to identify the most effective model for predicting COVID-19 based on symptom and clinical data.
+3. Deep Learning for Multi-Class Classification with Imbalanced Data: Focused on deep learning, this repository involves designing and training neural networks for multi-class classification tasks with imbalanced datasets. It includes tasks such as data shuffling, model tuning with early stopping, evaluating classification metrics, and comparing results from original and oversampled data distributions.
 
-Each sub-repository is equipped with detailed instructions, code, and documentation to facilitate understanding and replication of the experiments and techniques demonstrated.
+4. Covid-19 Detection Using Machine Learning: This project aims to develop a machine learning model for detecting COVID-19. It involves comparing several classification algorithms, including K-Nearest Neighbors (KNN), Random Forest, Naive Bayes, and Support Vector Machines (SVM), to identify the most effective model for predicting COVID-19 based on symptom and clinical data.
+
+- Each sub-repository is equipped with detailed instructions, code, and documentation to facilitate understanding and replication of the experiments and techniques demonstrated.
