@@ -76,8 +76,4 @@ The project uses the following datasets:
 - **Dataset Limitations:** Acknowledges potential issues with dataset completeness and representativeness, which could affect generalizability.
 - **Bias Discussion:** Limited exploration of dataset biases and their impact on model robustness in diverse healthcare contexts.
 
-## Installation and Usage
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
