@@ -17,7 +17,7 @@ Welcome to the **Machine Learning Programming** repository! This repository serv
 - **Description:** This repository contains a project focused on detecting COVID-19 using machine learning algorithms. It compares models such as K-Nearest Neighbors, Random Forest, Naive Bayes, and Support Vector Machine, and evaluates their performance in predicting COVID-19 based on clinical and symptom data.
 
 
-###Summary
+## Summary
 
 - The Machine Learning Programming repository is a comprehensive collection of projects and experiments in machine learning. It is organized into four distinct sub-repositories, each focusing on specific areas within the field:
 
