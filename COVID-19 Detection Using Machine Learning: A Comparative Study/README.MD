@@ -14,6 +14,20 @@ The project focuses on developing a machine learning model to detect COVID-19 us
 - **Problem Statement:** The rapid transmission of COVID-19 highlights the need for efficient detection systems. This project leverages machine learning to explore novel solutions for early detection.
 - **Aim:** To compare multiple machine learning algorithms, including K-Nearest Neighbors (KNN), Random Forest, and Naive Bayes, and identify the best model for predicting COVID-19.
 
+## Datasets
+
+The project uses the following datasets:
+
+1. **Covid Dataset.csv:** 
+   - **Description:** The primary dataset used for training and testing the machine learning models. It contains various features related to symptoms and clinical markers relevant for predicting COVID-19.
+   
+2. **Raw-Data.csv:** 
+   - **Description:** This file contains the initial, unprocessed data before any cleaning or preprocessing steps. It is used as the starting point for data preparation.
+   
+3. **Cleaned-Data.csv:** 
+   - **Description:** The dataset after preprocessing steps have been applied, including handling missing values, feature selection, and encoding. This cleaned data is used for model training and evaluation.
+
+
 ## Methodology
 
 - **Data Collection and Preprocessing:**
