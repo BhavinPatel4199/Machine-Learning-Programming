@@ -5,7 +5,7 @@ Welcome to the **Machine Learning Programming** repository! This repository serv
 ## Repositories
 ### Projects
 
-### 1. [Data Preprocessing and Feature Selection Techniques in Python](./Data%20Preprocessing%20and%20Feature%20Selection%20Techniques%20in%20Python/)
+### 1. [Data Preprocessing and Feature Selection Techniques using Python](./Data%20Preprocessing%20and%20Feature%20Selection%20Techniques%20using%20Python/)
    - **Description:** This repository contains projects related to data preprocessing and feature selection techniques using Python. It includes tasks like handling missing values, normality testing, encoding categorical variables, and applying feature selection methods such as correlation, chi-square, mutual information, and random forest importance.
 
 ### 2. [Clustering, Classification, and Dimensionality Reduction Techniques using Python](./Clustering%2C%20Classification%2C%20and%20Dimensionality%20Reduction%20Techniques%20using%20Python/)
@@ -14,7 +14,7 @@ Welcome to the **Machine Learning Programming** repository! This repository serv
 ### 3. [Deep Learning for Multi-Class Classification with Imbalanced Data](./Deep%20Learning%20for%20Multi-Class%20Classification%20with%20Imbalanced%20Data/)
    - **Description:** This repository presents deep learning experiments for multi-class classification tasks with imbalanced data. It covers neural network design, model tuning with early stopping, classification metrics evaluation, and comparisons between results from original and sampled datasets.
 
-### 4. [Covid-19 Detection Using Machine Learning](./Covid-19%20Detection%20Using%20Machine%20Learning/)
+### 4. [COVID-19 Detection Using Machine Learning: A Comparative Study](./COVID-19%20Detection%20Using%20Machine%20Learning%3A%20A%20Comparative%20Study/)
    - **Description:** This repository contains a project focused on detecting COVID-19 using machine learning algorithms. It compares models such as K-Nearest Neighbors, Random Forest, Naive Bayes, and Support Vector Machine, and evaluates their performance in predicting COVID-19 based on clinical and symptom data.
 
 
